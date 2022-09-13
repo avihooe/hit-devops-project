@@ -12,7 +12,7 @@
 </head>
 <body>
  <div class="container">
-  <h1>DevOps Course Register Form1:</h1>
+  <h1>DevOps Course Register Form:</h1>
   <div class="card">
    <div class="card-body">
     <form action="<%=request.getContextPath()%>/register" method="post">
